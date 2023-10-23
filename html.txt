@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta http.equiv="X-UA-compatile" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>personal portfolio</title>
+
+</head>
+<body>
+    <div class="hero">
+        <nav>
+            <p class="logo">Priyanka</p>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">PORTFOLIO</a></li>
+                <li><a href="#">SERVICES</a></li>
+               
+            </ul>
+             <li><a href="#" class="btn">HIRE ME</a></li>
+
+        </nav>
+        <div class="detail">
+            <h1>hey,I'm <span>Priyanka</span></h1>
+            <p>This is my official portfolio website to shows all
+                <br>Details and work experiences in web development
+            </p>
+            <a href="#"class="btn">DOWNLOAD CV</a>
+            
+        </div>
+        <div class="image">
+            <img src="1697984216015_0_1674377857645.jpg"alt="">
+        </div>
+        </div>
+</body>
+    </html>
